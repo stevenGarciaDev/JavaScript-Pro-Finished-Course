@@ -1,4 +1,4 @@
-# Advanced Topics Course
+# Intermediate Topics Course
 
 🔥 Get Instant Access to **FREE** JavaScript Resources! 🔥
 
