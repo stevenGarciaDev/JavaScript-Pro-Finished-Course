@@ -4,11 +4,11 @@
 
 Sign up now at [https://stevencodecraft.com](https://stevencodecraft.com) and download these must-have course materials for **FREE**:
 
-✅ 600-Page JavaScript Pro Ebook – Master JavaScript like a pro
-✅ 120-Page Active Recall Study Guide – Study smarter, not harder
-✅ 226-Page JavaScript Essentials for Technical Interviews PDF – Ace your coding interviews
-✅ Starter Project Files (GitHub) – Start coding immediately
-✅ Finished Project Files (GitHub) – Compare and learn from completed projects
+-   ✅ 600-Page JavaScript Pro Ebook – Master JavaScript like a pro
+-   ✅ 120-Page Active Recall Study Guide – Study smarter, not harder
+-   ✅ 226-Page JavaScript Essentials for Technical Interviews PDF – Ace your coding interviews
+-   ✅ Starter Project Files (GitHub) – Start coding immediately
+-   ✅ Finished Project Files (GitHub) – Compare and learn from completed projects
 
 👉 Don’t miss out! Sign up and grab your **free** downloads today: [https://stevencodecraft.com](https://stevencodecraft.com) 🚀
 
